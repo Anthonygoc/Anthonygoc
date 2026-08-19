@@ -111,7 +111,7 @@ Minha atuação combina **engenharia de software, backend, arquitetura, intelig�
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -162,7 +162,7 @@ Minha atuação combina **engenharia de software, backend, arquitetura, intelig�
 
 ---
 
-# 🤖 AI Engineering & Sistemas Distribuídos
+## 🤖 AI Engineering & Sistemas Distribuídos
 
 <div align="center">
 
@@ -211,7 +211,7 @@ Minha atuação combina **engenharia de software, backend, arquitetura, intelig�
 <br/><br/>
 
 <img
-  src="https://img.shields.io/badge/Vector%20Search-412991?style=for-the-badge&logo=databricks&logoColor=white"
+  src="https://img.shields.io/badge/Vector%20Search-412991?style=for-the-badge"
   alt="Vector Search"
 />
 
@@ -229,7 +229,7 @@ Minha atuação combina **engenharia de software, backend, arquitetura, intelig�
 
 ---
 
-# 🧩 Áreas de Atuação
+## 🧩 Áreas de Atuação
 
 <div align="center">
 
@@ -353,12 +353,12 @@ Integrações SaaS
 
 ---
 
-# 🏗️ Engenharia & Arquitetura
+## 🏗️ Engenharia & Arquitetura
 
 <div align="center">
 
 <img
-  src="https://img.shields.io/badge/Clean%20Architecture-0D1117?style=for-the-badge&logo=dependabot&logoColor=00D9FF"
+  src="https://img.shields.io/badge/Clean%20Architecture-0D1117?style=for-the-badge"
   alt="Clean Architecture"
 />
 
@@ -368,7 +368,7 @@ Integrações SaaS
 />
 
 <img
-  src="https://img.shields.io/badge/Domain%20Driven%20Design-0D1117?style=for-the-badge&logo=abstract&logoColor=00D9FF"
+  src="https://img.shields.io/badge/Domain%20Driven%20Design-0D1117?style=for-the-badge"
   alt="Domain Driven Design"
 />
 
@@ -398,7 +398,7 @@ Integrações SaaS
 
 ---
 
-# 🚀 Petrocheck
+## 🚀 Petrocheck
 
 <div align="center">
 
@@ -462,7 +462,7 @@ A plataforma reúne tecnologia, gestão operacional, automação e controle de c
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -490,7 +490,7 @@ A plataforma reúne tecnologia, gestão operacional, automação e controle de c
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -504,7 +504,7 @@ A plataforma reúne tecnologia, gestão operacional, automação e controle de c
 
 ---
 
-# 📈 Atividade no GitHub
+## 📈 Atividade no GitHub
 
 <div align="center">
 
@@ -518,7 +518,7 @@ A plataforma reúne tecnologia, gestão operacional, automação e controle de c
 
 ---
 
-# 📬 Contato
+## 📬 Contato
 
 <div align="center">
 
