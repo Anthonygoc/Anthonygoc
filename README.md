@@ -15,7 +15,7 @@
 
 <a href="https://www.petrocheck.com.br">
   <img
-    src="https://img.shields.io/badge/🚀%20Petrocheck-FF6B00?style=for-the-badge"
+    src="https://img.shields.io/badge/⛽%20Petrocheck-FF6B00?style=for-the-badge"
     alt="Petrocheck"
   />
 </a>
